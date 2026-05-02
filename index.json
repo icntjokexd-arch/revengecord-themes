@@ -1,13 +1,13 @@
 [
   {
-    "name": "Aqua Void",
-    "description": "Made by Rxdra",
+    "name": "Cyan Glass Revenge",
+    "description": "Full Discord v362 Cyan theme",
     "authors": [
       {
-        "name": "Rxdra",
+        "name": "Rudransh",
         "id": "0"
       }
     ],
-    "file": "themes/AquaVoid/theme.json"
+    "file": "themes/CyanGlass/theme.json"
   }
 ]
