@@ -1,19 +1,9 @@
 {
   "name": "Aqua Void",
-  "description": "Cyber Anime Theme by Rxdra",
+  "description": "Made by Rxdra",
   "version": "1.0.0",
-  "author": "Rxdra",
 
   "background": "#050b14",
-  "backgroundSecondary": "#071a24",
-  "backgroundTertiary": "#0a2633",
-
   "text": "#ffffff",
-  "mutedText": "#8fefff",
-
-  "accent": "#00e5ff",
-  "accentSecondary": "#7c4dff",
-
-  "border": "#00e5ff",
-  "hover": "#00ffff"
+  "accent": "#00e5ff"
 }
