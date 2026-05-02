@@ -1,11 +1,9 @@
 {
   "name": "Cyan Glass Revenge",
-  "description": "Full Discord v362 Cyan theme",
-  "authors": [
-    { "name": "Rudransh", "id": "0" }
-  ],
+  "description": "Background matched teal glass theme",
+  "authors": [{ "name": "Rudransh", "id": "0" }],
   "spec": 3,
-  "version": "5.0.0",
+  "version": "7.0.0",
 
   "background": {
     "url": "https://cdn.discordapp.com/attachments/1499822321538564230/1500215454839607306/17db387f1a476f5496bb2dfea4bd8f48.jpg",
@@ -14,21 +12,27 @@
   },
 
   "colors": {
-    "brand": "#009f88",
-    "accent": "#00e6c3",
+    "brand": "#0a7670",
+    "accent": "#0f9e95",
     "primary": "#021515",
     "secondary": "#042f2c",
     "tertiary": "#000202",
     "text": "#eafffb",
-    "text-muted": "#7cecdf"
+    "text-muted": "#6dd9ce"
   },
 
   "rawColors": {
-    "brand-500": "#009f88",
-    "brand-600": "#008f7a",
+    "brand-500": "#0a7670",
+    "brand-600": "#08615c",
+    "primary-300": "#0f9e95",
+    "primary-400": "#08615c",
+    "primary-500": "#042f2c",
     "primary-600": "#021515",
     "primary-700": "#010808",
-    "primary-800": "#000202"
+    "primary-800": "#000202",
+    "green-400": "#38c9a9",
+    "yellow-400": "#c6b25f",
+    "red-400": "#b85c5c"
   },
 
   "semanticColors": {
@@ -41,25 +45,57 @@
     "BACKGROUND_TERTIARY": "#042f2c",
     "BACKGROUND_FLOATING": "#021515",
 
+    "BACKGROUND_MODIFIER_ACCENT": "#042f2c",
+    "BACKGROUND_MODIFIER_HOVER": "#053e3a",
+    "BACKGROUND_MODIFIER_ACTIVE": "#064f4a",
+    "BACKGROUND_MODIFIER_SELECTED": "#08615c",
+
     "CARD_PRIMARY_BG": "#021515",
     "MODAL_BACKGROUND": "#021515",
+    "ACTIVITY_CARD_BACKGROUND": "#021515",
+
     "INPUT_BACKGROUND": "#010808",
+    "INPUT_BORDER": "#053e3a",
+    "INPUT_PLACEHOLDER_TEXT": "#6dd9ce",
+    "SEARCH_BAR_BACKGROUND": "#010808",
 
     "CHAT_BACKGROUND": "#000202",
     "CHANNELTEXTAREA_BACKGROUND": "#010808",
 
     "HEADER_PRIMARY": "#eafffb",
-    "HEADER_SECONDARY": "#66f7ea",
+    "HEADER_SECONDARY": "#6dd9ce",
 
     "TEXT_NORMAL": "#eafffb",
-    "TEXT_MUTED": "#7cecdf",
+    "TEXT_MUTED": "#6dd9ce",
+    "TEXT_LINK": "#38c9a9",
 
-    "INTERACTIVE_NORMAL": "#66f7ea",
-    "INTERACTIVE_HOVER": "#9ffcf2",
-    "INTERACTIVE_ACTIVE": "#00e6c3",
+    "INTERACTIVE_NORMAL": "#6dd9ce",
+    "INTERACTIVE_HOVER": "#8fe7de",
+    "INTERACTIVE_ACTIVE": "#38c9a9",
+    "INTERACTIVE_MUTED": "#062a27",
 
-    "SCROLLBAR_THIN_THUMB": "#009f88",
-    "PROFILE_GRADIENT_PRIMARY_COLOR": "#009f88",
-    "PROFILE_GRADIENT_SECONDARY_COLOR": "#00e6c3"
+    "MENTION_BACKGROUND": "#0a767022",
+    "MENTION_FOREGROUND": "#38c9a9",
+    "MESSAGE_HIGHLIGHT": "#0a767015",
+
+    "STATUS_ONLINE": "#38c9a9",
+    "STATUS_IDLE": "#c6b25f",
+    "STATUS_DND": "#b85c5c",
+    "STATUS_STREAMING": "#8f7cff",
+    "STATUS_OFFLINE": "#6dd9ce",
+
+    "SCROLLBAR_THIN_THUMB": "#0a7670",
+    "SCROLLBAR_THIN_TRACK": "#000202",
+
+    "ELEVATION_LOW": "#021515",
+    "ELEVATION_MEDIUM": "#042f2c",
+    "ELEVATION_HIGH": "#053e3a",
+
+    "PROFILE_GRADIENT_PRIMARY_COLOR": "#0a7670",
+    "PROFILE_GRADIENT_SECONDARY_COLOR": "#38c9a9",
+
+    "BUTTON_SECONDARY_BACKGROUND": "#042f2c",
+    "BUTTON_SECONDARY_BACKGROUND_HOVER": "#053e3a",
+    "BUTTON_SECONDARY_BACKGROUND_ACTIVE": "#064f4a"
   }
 }
