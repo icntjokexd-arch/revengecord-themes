@@ -1,0 +1,26 @@
+{
+  "name": "Aqua Void",
+  "description": "Cyber Anime Redesign by Rxdra",
+  "version": "2.0.0",
+
+  "backgroundImage": "https://i.imgur.com/gbKMnI0.jpeg",
+
+  "background": "#050b14",
+  "backgroundSecondary": "#071a24",
+  "backgroundTertiary": "#0a2633",
+
+  "text": "#ffffff",
+  "mutedText": "#8fefff",
+
+  "accent": "#00e5ff",
+  "accentSecondary": "#7c4dff",
+
+  "border": "#00e5ff",
+  "hover": "#00ffff",
+
+  "interactiveNormal": "#00bfff",
+  "interactiveHover": "#00eaff",
+  "interactiveActive": "#00ffff",
+
+  "mention": "#00ffff"
+}
