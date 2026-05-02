@@ -1,85 +1,65 @@
 {
-  "name": "Cyan Moonlight Minimal",
-  "description": "Full cyan moon forest theme (extended tokens)",
-  "authors": [{ "name": "Rudransh", "id": "0" }],
-  "version": "2.0.0",
+  "name": "Cyan Glass Revenge",
+  "description": "Full Discord v362 Cyan theme",
+  "authors": [
+    { "name": "Rudransh", "id": "0" }
+  ],
+  "spec": 3,
+  "version": "5.0.0",
 
   "background": {
     "url": "https://cdn.discordapp.com/attachments/1499822321538564230/1500215454839607306/17db387f1a476f5496bb2dfea4bd8f48.jpg",
-    "alpha": 0.55,
-    "blur": 0
+    "alpha": 0.45,
+    "blur": 8
+  },
+
+  "colors": {
+    "brand": "#009f88",
+    "accent": "#00e6c3",
+    "primary": "#021515",
+    "secondary": "#042f2c",
+    "tertiary": "#000202",
+    "text": "#eafffb",
+    "text-muted": "#7cecdf"
   },
 
   "rawColors": {
-    "brand-500": "#00e5ff",
-    "brand-560": "#00ffff",
-    "brand-600": "#00c3d9",
-    "brand-660": "#009fb3",
-
-    "primary-100": "#d9feff",
-    "primary-130": "#b6fbff",
-    "primary-160": "#8df7ff",
-    "primary-200": "#66f7ff",
-    "primary-230": "#4aefff",
-    "primary-260": "#33e7ff",
-    "primary-300": "#1fdcff",
-
-    "primary-330": "#0bbfd4",
-    "primary-345": "#0aa9bd",
-    "primary-360": "#0993a6",
-    "primary-400": "#087b8a",
-    "primary-430": "#066872",
-    "primary-460": "#05545c",
-    "primary-500": "#044248",
-    "primary-530": "#03353a",
-    "primary-560": "#02292d",
-    "primary-600": "#071a1f",
-    "primary-630": "#051418",
-    "primary-660": "#040f12",
-    "primary-700": "#030c0e",
-    "primary-730": "#02090b",
-    "primary-760": "#010607",
-    "primary-800": "#000304",
-
-    "red-400": "#ff4f4f",
-    "green-400": "#43ffb0",
-    "yellow-400": "#ffe066"
+    "brand-500": "#009f88",
+    "brand-600": "#008f7a",
+    "primary-600": "#021515",
+    "primary-700": "#010808",
+    "primary-800": "#000202"
   },
 
   "semanticColors": {
-    "BACKGROUND_PRIMARY": "#02090b",
-    "BACKGROUND_SECONDARY": "#051418",
-    "BACKGROUND_TERTIARY": "#071a1f",
-    "BACKGROUND_FLOATING": "#071a1f",
-    "BACKGROUND_MOBILE_PRIMARY": "#02090b",
-    "BACKGROUND_MOBILE_SECONDARY": "#051418",
+    "BG_BASE_PRIMARY": "#000202",
+    "BG_BASE_SECONDARY": "#021515",
+    "BG_BASE_TERTIARY": "#042f2c",
 
-    "HEADER_PRIMARY": "#e8feff",
-    "HEADER_SECONDARY": "#66f7ff",
+    "BACKGROUND_PRIMARY": "#000202",
+    "BACKGROUND_SECONDARY": "#021515",
+    "BACKGROUND_TERTIARY": "#042f2c",
+    "BACKGROUND_FLOATING": "#021515",
 
-    "TEXT_NORMAL": "#e8feff",
-    "TEXT_MUTED": "#66f7ff",
-    "TEXT_LINK": "#00ffff",
-    "TEXT_POSITIVE": "#43ffb0",
-    "TEXT_WARNING": "#ffe066",
-    "TEXT_DANGER": "#ff4f4f",
+    "CARD_PRIMARY_BG": "#021515",
+    "MODAL_BACKGROUND": "#021515",
+    "INPUT_BACKGROUND": "#010808",
 
-    "CHANNELTEXTAREA_BACKGROUND": "#030c0e",
-    "CHAT_BACKGROUND": "#02090b",
+    "CHAT_BACKGROUND": "#000202",
+    "CHANNELTEXTAREA_BACKGROUND": "#010808",
 
-    "INTERACTIVE_NORMAL": "#66f7ff",
-    "INTERACTIVE_HOVER": "#9afcff",
-    "INTERACTIVE_ACTIVE": "#00ffff",
-    "INTERACTIVE_MUTED": "#0a2b30",
+    "HEADER_PRIMARY": "#eafffb",
+    "HEADER_SECONDARY": "#66f7ea",
 
-    "CHANNEL_ICON": "#66f7ff",
-    "CHANNEL_TEXT_AREA_PLACEHOLDER": "#66f7ff",
+    "TEXT_NORMAL": "#eafffb",
+    "TEXT_MUTED": "#7cecdf",
 
-    "SCROLLBAR_THIN_THUMB": "#00ffff",
-    "SCROLLBAR_THIN_TRACK": "#02090b",
+    "INTERACTIVE_NORMAL": "#66f7ea",
+    "INTERACTIVE_HOVER": "#9ffcf2",
+    "INTERACTIVE_ACTIVE": "#00e6c3",
 
-    "BUTTON_SECONDARY_BACKGROUND": "#071a1f",
-    "BUTTON_SECONDARY_BACKGROUND_HOVER": "#0a2b30",
-    "BUTTON_SECONDARY_BACKGROUND_ACTIVE": "#0f3d45"
+    "SCROLLBAR_THIN_THUMB": "#009f88",
+    "PROFILE_GRADIENT_PRIMARY_COLOR": "#009f88",
+    "PROFILE_GRADIENT_SECONDARY_COLOR": "#00e6c3"
   }
 }
