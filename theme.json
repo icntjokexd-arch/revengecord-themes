@@ -1,0 +1,136 @@
+{
+  "name": "Void Bubble",
+  "description": "Electric blue floating bubble aesthetic",
+  "authors": [
+    {
+      "name": "zRxdra"
+    }
+  ],
+
+  "spec": 2,
+
+  "background": {
+    "url": "YOUR_NEW_IMAGE_URL",
+    "blur": 0,
+    "alpha": 0.94
+  },
+
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#070B17"
+    ],
+
+    "BACKGROUND_SECONDARY": [
+      "#10182B"
+    ],
+
+    "BACKGROUND_TERTIARY": [
+      "#172642"
+    ],
+
+    "BACKGROUND_ACCENT": [
+      "#39D8FF22"
+    ],
+
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#6EE7FF14"
+    ],
+
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#6EE7FF22"
+    ],
+
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#6EE7FF33"
+    ],
+
+    "BACKGROUND_MENTIONED": [
+      "#39D8FF22"
+    ],
+
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#39D8FF44"
+    ],
+
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#28436B"
+    ],
+
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "#28436B"
+    ],
+
+    "CARD_PRIMARY_BG": [
+      "#1A2C4A"
+    ],
+
+    "CARD_SECONDARY_BG": [
+      "#22385C"
+    ],
+
+    "MODAL_BACKGROUND": [
+      "#14233D"
+    ],
+
+    "MODAL_FOOTER_BACKGROUND": [
+      "#1B2F4D"
+    ],
+
+    "TEXT_NORMAL": [
+      "#F4FAFF"
+    ],
+
+    "TEXT_MUTED": [
+      "#A8C8E8"
+    ],
+
+    "HEADER_PRIMARY": [
+      "#FFFFFF"
+    ],
+
+    "HEADER_SECONDARY": [
+      "#CBE6FF"
+    ],
+
+    "TEXT_LINK": [
+      "#73E4FF"
+    ],
+
+    "INTERACTIVE_NORMAL": [
+      "#73E4FF"
+    ],
+
+    "INTERACTIVE_HOVER": [
+      "#CFF7FF"
+    ],
+
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF"
+    ],
+
+    "SCROLLBAR_THIN_THUMB": [
+      "#39D8FF"
+    ],
+
+    "CONTROL_BRAND_FOREGROUND": [
+      "#73E4FF"
+    ],
+
+    "CONTROL_BRAND_BACKGROUND": [
+      "#39D8FF"
+    ]
+  },
+
+  "rawColors": {
+    "PRIMARY_500": "#73E4FF",
+    "PRIMARY_600": "#39D8FF",
+    "PRIMARY_700": "#229FC2",
+
+    "BRAND_NEW": "#73E4FF",
+
+    "BLACK": "#070B17",
+    "BLACK_ALT": "#10182B",
+
+    "WHITE": "#FFFFFF"
+  }
+      }
